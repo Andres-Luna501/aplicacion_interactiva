@@ -1,0 +1,8 @@
+# Unity
+[Tt]emp/
+[Tt]emp/**/* 
+[Ll]ibrary/
+[Ll]ibrary/**/* 
+[A]ssets/AssetStoreTools*
+[Dd]ebug/
+[Dd]ebugLog/
